@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Boxing",
+  "description": "Offline Solo Leveling style AI Boxing Coach with live pose detection, combo training, exercise library, editable schedule, progress charts, and daily quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
